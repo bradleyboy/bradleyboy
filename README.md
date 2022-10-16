@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Brad 👋
+
+💳 By day, I work as a Software Engineer at [Stripe](https://stripe.com/). I've previously done similar stints at [Mailchimp](https://mailchimp.com) and [Etsy](https://etsy.com).
+
+📸 A long time ago, I co-authored software for photographers in the form of [SlideShowPro](https://slideshowpro.net) and [Koken](https://koken.me).
+
+⚒ In my limited spare time, I'm building [Nokkio](https://nokk.io), an early stage development platform for modern web applications.
 
 <!--
 **bradleyboy/bradleyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
