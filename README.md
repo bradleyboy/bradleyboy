@@ -4,7 +4,7 @@
 
 📸 A long time ago, I co-authored software for photographers in the form of [SlideShowPro](https://slideshowpro.net) and [Koken](https://koken.me).
 
-⚒ In my limited spare time, I'm building [Nokkio](https://nokk.io), an early stage development platform for modern web applications.
+⚒ In my limited spare time, I'm building [Nokkio](https://nokk.io), a rapid development platform for modern web applications (considered very beta right now).
 
 <!--
 **bradleyboy/bradleyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
