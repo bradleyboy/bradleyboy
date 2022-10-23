@@ -2,7 +2,7 @@
 
 💳 By day, I work as a Software Engineer at [Stripe](https://stripe.com/). I've previously done similar stints at [Mailchimp](https://mailchimp.com) and [Etsy](https://etsy.com).
 
-📸 A long time ago, I co-authored software for photographers in the form of [SlideShowPro](https://slideshowpro.net) and [Koken](https://koken.me).
+📸 A long time ago, I co-authored software for photographers in the form of [SlideShowPro](http://slideshowpro.net) and [Koken](https://koken.me).
 
 ⚒ In my limited spare time, I'm building [Nokkio](https://nokk.io), a rapid development platform for modern web applications (considered very beta right now).
 
